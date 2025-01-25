@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bivek Gharti</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 📫 How to reach me **gcbibek3353@gmail.com**
 
